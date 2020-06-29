@@ -1,0 +1,7 @@
+- [自动配置一些学习，微信文章](<https://mp.weixin.qq.com/s?__biz=MzA5MTkxMDQ4MQ==&mid=2648934401&idx=1&sn=98e726ec9adda6d40663f624705ba2e4&chksm=8862103fbf15992981183abef03b4774ab1dfd990a203a183efb8d118455ee4b477dc6cba50d&mpshare=1&scene=23&srcid=&sharer_sharetime=1587380933924&sharer_shareid=e6d90aec84add5cf004cb1ab6979727c#rd>)
+
+- [图解Spring循环依赖，看过之后再也不怕面试被问到了！](<https://mp.weixin.qq.com/s?__biz=MzIwMTY0NDU3Nw==&mid=2651942108&idx=1&sn=efba2e289edee61470b4b9a9b6f91c78&chksm=8d0f0392ba788a84bb36564a80e3f7adee7086c3b9d1645f5fbb72109be75e82b908185edce1&mpshare=1&scene=23&srcid=&sharer_sharetime=1588594519462&sharer_shareid=e6d90aec84add5cf004cb1ab6979727c#rd>)
+
+- [这篇带你深入理解SpringBoot中的自动装配（好文精读）](<https://mp.weixin.qq.com/s?__biz=MzIwMTY0NDU3Nw==&mid=2651942029&idx=2&sn=63f51eb1c27baf6cb1838061a2b58279&chksm=8d0f03c3ba788ad54b47718cf49035e75e623c20a4196619c3148d2ec914a6c78cc2804f2533&mpshare=1&scene=23&srcid=&sharer_sharetime=1587782181973&sharer_shareid=e6d90aec84add5cf004cb1ab6979727c#rd>)
+
+- [【配置】太狠了，疫情期间面试，一个问题砍了我5000！](<https://mp.weixin.qq.com/s?__biz=MzA5MTkxMDQ4MQ==&mid=2648934401&idx=1&sn=98e726ec9adda6d40663f624705ba2e4&chksm=8862103fbf15992981183abef03b4774ab1dfd990a203a183efb8d118455ee4b477dc6cba50d&mpshare=1&scene=23&srcid=&sharer_sharetime=1587380933924&sharer_shareid=e6d90aec84add5cf004cb1ab6979727c#rd>)
