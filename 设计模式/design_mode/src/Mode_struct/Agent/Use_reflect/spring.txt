@@ -1,0 +1,2 @@
+class=Mode_struct.Agent.Use_reflect.Service2
+method=doService
