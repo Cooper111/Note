@@ -1,0 +1,3 @@
+- [List,Set,Map继承关系](<https://blog.csdn.net/hhhuuu2020/article/details/52656727>)
+- [一口气带你踩完五个 List 的大坑](<https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247487080&idx=1&sn=f14cba462d998b97c67cea19a49cba5a&chksm=ebd74f69dca0c67f77312f83508cea22a596d645c6446a9d6068587a53f2393f022c923efe3a&mpshare=1&scene=23&srcid=&sharer_sharetime=1587746148693&sharer_shareid=e6d90aec84add5cf004cb1ab6979727c#rd>)
+- [Collection接口及其常用子类（java.util包）](<https://blog.csdn.net/weixin_43214609/article/details/89431501>)

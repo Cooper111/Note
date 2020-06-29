@@ -1,0 +1,1 @@
+# [UML中常见关系详解（泛化、实现、依赖、关联、组合、聚合）](https://www.cnblogs.com/itplay/p/10671715.html)
