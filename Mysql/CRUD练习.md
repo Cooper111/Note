@@ -55,6 +55,37 @@ https://www.nowcoder.com/questionTerminal/994ed81b7ae345ac9c04e84608ba3e6a
 
 
 
+# Where和Having区别
+
+- WHERE 子句作用于**表和视图**，HAVING 子句**作用于组**
+
+  通俗的讲，where语句作用在group by之前，having语句作用在group by之后
+
+- WHERE 子句**不能包含聚集函数**； 因为试图用聚集函数判断那些行输入给聚集运算是没有意义的。 相反，HAVING 子句**总是包含聚集函数**。
+
+
+
+<https://www.cnblogs.com/lmaster/p/6373045.html>
+
+
+
+## Having和Group by
+
+```sql
+FROM 
+WHERE （先过滤单表／视图／结果集，再JOIN）
+GROUP BY
+HAVING （WHERE过滤的是行，HAVING过滤的是组，所以在GROUP之后）
+ORDER BY
+```
+
+- <https://www.cnblogs.com/948046hs/p/9122231.html>
+- <https://www.cnblogs.com/lmaster/p/6373045.html>
+
+
+
+
+
 # 场景
 
 - update设置的参数来自从其他表select出的结果
@@ -117,6 +148,6 @@ https://www.nowcoder.com/questionTerminal/994ed81b7ae345ac9c04e84608ba3e6a
   3.计算主管负责顶点部门数（比如：张三负责部门A,B,C；其中A的上级部门B，那么张三管理的顶点是：B、C）。
   
   
-   ```
+  ```
 
   
