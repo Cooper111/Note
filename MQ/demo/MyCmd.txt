@@ -1,0 +1,12 @@
+F:\JAVA\MQ\demo\rocketmq-all-4.6.0-bin-release\bin>start mqnamesrv.cmd
+
+F:\JAVA\MQ\demo\rocketmq-all-4.6.0-bin-release\bin>start mqbroker.cmd -n 127.0.0.1:9876 -c ../conf/broker.conf
+
+F:\JAVA\MQ\demo\rocketmq-externals-master\rocketmq-console\target     java -jar rocketmq-console-ng-2.0.0.jar 
+
+
+#删除Topic
+mqadmin deleteTopic –n 127.0.0.1:9876 –c DefaultCluster –t topicWarning
+
+#rocketMQ常用命令
+https://www.cnblogs.com/gmq-sh/p/6232633.html

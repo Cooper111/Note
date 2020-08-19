@@ -1,0 +1,8 @@
+# 参考
+
+- [应该选择RabbitMQ还是Kafka？](https://mp.weixin.qq.com/s?__biz=MzAwMTA0MjE4Mg==&mid=2247484445&idx=1&sn=691816dd3d6db82c7066d7ed534079cd&chksm=9adef674ada97f62242c1b0665cd19d85c23f54bc1c44d0f7e4c3a9b350aa9521b9b8ccf7a66&mpshare=1&scene=23&srcid=&sharer_sharetime=1586597112554&sharer_shareid=e6d90aec84add5cf004cb1ab6979727c#rd)
+- [《RabbitMQ》如何保证消息不被重复消费](<https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649497400&idx=2&sn=449e902a5a5abb064e574b7c3b897c4c&chksm=8eec94c7b99b1dd1ab914ee08557c04169da5ebaefbbfbb5b8dbe4c3e190e324bab877920710&mpshare=1&scene=23&srcid=0810EG63yGaY4B7yzcZsHOE1&sharer_sharetime=1597069373482&sharer_shareid=e6d90aec84add5cf004cb1ab6979727c#rd>)
+- [RabbitMQ 简介以及使用场景](<https://mp.weixin.qq.com/s?__biz=MzIwMTY0NDU3Nw==&mid=2651941919&idx=2&sn=17f732aee7dcd5550bde7659f6d09ea3&chksm=8d0f0351ba788a476edf56858da4814d28cfdd441c2ca8809487747a16798760a46c76138c52&mpshare=1&scene=23&srcid=&sharer_sharetime=1586398599969&sharer_shareid=e6d90aec84add5cf004cb1ab6979727c#rd>)
+- [SpringBoot+RabbitMQ （保证消息100%投递成功并被消费）](<https://mp.weixin.qq.com/s?__biz=MzI3NjU2ODA5Mg==&mid=2247485197&idx=4&sn=72ce80cee696194ab2c9f3c11e58840d&chksm=eb72c67edc054f68740095221680e85e58cf0c3dba91149f5d889d4672127556f96308c8f1f9&mpshare=1&scene=23&srcid=&sharer_sharetime=1586222923366&sharer_shareid=e6d90aec84add5cf004cb1ab6979727c#rd>)
+
+- [非常强悍的 RabbitMQ 总结，写得真好！](<https://mp.weixin.qq.com/s?__biz=MzAxMjEwMzQ5MA==&mid=2448892349&idx=1&sn=410b3cbe4db2ad61c0fa60923980a225&chksm=8fb57b90b8c2f2868486f38db6c56a3bc24abcc23eff68c410c2756f96959c9141d4d90b772b&mpshare=1&scene=23&srcid=0803fZDzB01PLczH79Y4RoIp&sharer_sharetime=1596464185987&sharer_shareid=e6d90aec84add5cf004cb1ab6979727c#rd>)
